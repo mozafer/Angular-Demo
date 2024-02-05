@@ -1,0 +1,1 @@
+docker run --name myredis20 -d -p 7001:6379 redis
